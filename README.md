@@ -19,8 +19,8 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/StarisbornT/sundai-health-app
-   cd sundai-health-app
+   git clone https://github.com/StarisbornT/fixiconn
+   cd fixiconn
 Install dependencies:
 
 bash
